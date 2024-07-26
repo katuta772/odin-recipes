@@ -10,9 +10,13 @@ body {
     width: fit-content;
 }
 
-.list-item {
+.olist-item {
     color: red;
     padding: 6px;
+}
+
+.ulist-item {
+    color: red;
 }
 
 #available {
